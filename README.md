@@ -68,7 +68,7 @@ Brainfuck is an esoteric programming language created in 1993 by Urban Müller, 
 
 This repository includes 4 files with Brainfuck implementations.
 
-- A Brainf\*ck script that prints Holberton, followed by a new line.
+- A Brainf\*ck script that prints School, followed by a new line.
 - Add two digits given by the user.
 - Multiply two digits given by the user.
 - Multiply two digits given by the user + print a new line at the end.
